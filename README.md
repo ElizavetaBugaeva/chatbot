@@ -1,6 +1,6 @@
 # Project Description: 
 
-QDesigned to optimize and extend ChatGPT for a narrow set of tasks. It leverages custom instructions, capabilities, and integrated data to provide focused and efficient interactions for specific workflows and domain-specific challenges.
+Designed to optimize and extend ChatGPT for a narrow set of tasks. It leverages custom instructions, capabilities, and integrated data to provide focused and efficient interactions for specific workflows and domain-specific challenges.
 
 ## Overview
 
